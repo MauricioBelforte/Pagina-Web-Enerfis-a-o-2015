@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang = "es">
+
+<head>
+	<meta charset= "utf-8"/>
+	<link rel="shortcut icon" href="./IMAGENES/icono.png" />
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
+	<title> Enerfis </title>
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen"/>
+	<link rel="stylesheet" type="text/css" href="iconos/ico.css"/>
+	<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Inder' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Chelsea+Market' rel='stylesheet' type='text/css'>
+	
+</head>
+
+<div id="colornavfondo">
+		
+
+<header id="colornavdentro"> 
+		
+		<div class="divlogo" >
+			<a href= "index.html"><img src="./IMAGENES/logo.png"  alt="imagen logo" /> </a>
+		</div>
+
+		<div class="menu_bar">
+		<div class="divlogo"><a href= "index.html"><img src="./IMAGENES/logo.png"  alt="imagen logo" /> </a></div>
+				<a href="" class="boton-menu"><span class="icon-menu"></span></a>
+		</div>
+			
+		<nav id="navPrincipal">
+			<ul>
+				<!--	<li><a href= "#eficienciaenergetica">EFICIENCIA ENERGETICA</a></li>  -->
+				<li><a href= "index.html">INICIO</a></li>
+				<li><a href= "#quienessomos">QUIENES SOMOS</a></li>
+				<li><a href= "#servicios">SERVICIOS</a></li>
+				<li><a href= "#beneficios">BENEFICIOS</a></li>
+				<li><a href= "#metodologia">METODOLOGIA</a></li>
+				<li><a href= "contactos.html">CONTACTOS</a></li>
+					
+				
+			</ul>
+		</nav>	
+	</header>
+ </div>
+
+
+
+
+<body>
+	
+	<div id="centrartriangulo">  <div id="triangulo"> </div>  </div> 
+	
+	<div id="contenido">	
+	
+
+
+
+		<section>
+			<div id="quienessomos">
+					<hgroup> 	
+						<h2>¿QUIENES SOMOS?</h2>
+					</hgroup>
+
+				<article>
+					
+					<p>Somos una empresa dedicada principalmente a evaluar y reducir el costo de los consumos de Energía, mediante una estrategia personalizada de uso eficiente y sustentable de la energía.
+					<p>Uno de los principales gastos de las empresas viene derivado del consumo energético asociado a los procesos productivos. En efecto, según los principales estudios, el consumo de energía, a menudo es más elevado de lo necesario.</p>
+					<p>	De esta manera, aplicando nuestra metodología y la estrategia correcta adaptada a cada necesidad, logramos un mismo nivel de producción con un menor consumo energético mejorando la competitividad y la imagen institucional. Esto, trae aparejado un impacto directo en los costos y por ende en la economía de los diferentes establecimientos e instituciones en los que se lleva a cabo, además de contribuir y cumplir con las políticas de medio ambiente.</p>
+
+
+					</p>
+
+				</article>
+
+
+			</div>
+
+		</section>
+
+		<!--<section>
+			<div id="eficienciaenergetica">
+				<article>
+					<hgroup> 	
+						<h1>Eficiencia Energetica
+					</hgroup>
+					
+					
+					 
+
+					<p>+ Sustentabilidad
+						+ Ahoro
+						- Costos
+						- Consumo
+						REDUCIR
+						CONSUMO
+						EFECTIVIDAD
+						ENERGÉTICA</p>
+					</article>	
+				</div>
+
+			</section></h1>-->
+
+			<section>
+				<div id="servicios">
+
+					<h2>SERVICIOS</h2>
+					<article id="edificiosizq">
+					
+					
+							<h1 class="centrar">Edificios </h1>
+							
+								<div class="centrar">
+									<img class="logos" src="./IMAGENES/logo_edificios.png" alt="imagen edifico"/> 
+								</div>					
+						<p>Una renovación puede generar un ahorro de energía de hasta un 30%.
+							Los Edificios consumen el 20% de la energía total.
+							Dos áreas claves: HVAC, iluminación.				
+						</p>	
+					</article>
+
+					<article id="industriasder">
+							
+							<h1 class="centrar">Industrias e Infraestructuras</h1>
+							
+
+							<div class="centrar">
+								<img class="logos" src="./IMAGENES/logo_industrias.png" alt="imagen edificio"/> 
+							</div> 
+						<p>Una instalación media puede reducir su consumo entre un 10 y un 20%.
+							Los procesos industriales son responsables de más del 60% del consumo de electricidad.
+						</p>	
+					</article>
+
+
+				</div>
+
+			</section>
+
+			<section>
+				<div id="beneficios">
+
+					<h2>BENEFICIOS</h2>
+					<article>
+						<h1>+ Ahorro de dinero/energía en el corto, medio y largo plazo.</h1>									
+					</article>
+
+					<article>
+						<h1>+ Aporte medio ambiente.</h1>
+					</article>
+
+					<article>
+						<h1>+ Optimización del rendimiento del trabajador, mediante un ambiente laboral adecuado.</h1>									
+					</article>
+
+					<article>
+						<h1>+ Reconocimiento e imagen de cara al exterior (clientes, proveedores, accionistas,
+							opinión pública) de su compromiso con un consumo energético sostenible.</h1>
+						</article>
+
+					</div>
+
+				</section>
+
+
+				<section>
+					<div id="metodologia">
+
+						<h2>METODOLOGIA</h2>
+						<article>
+							<p>Implica la implementación de una serie de etapas a seguir, que nos permite llegar a un resultado que cubre las necesidades específicas del caso en particular.</p>
+						</article>
+						<article>
+							<h1>Relevamiento energético: </h1>								
+							<p>Analiza la situación actual e identifica las áreas de oportunidad.</p>	
+						</article>
+
+						<article>	
+							<h1>Análisis integral de la energía: </h1>
+							<p>Considerando cada ámbito, se elabora unaestrategia energética que optimice la relación costo-beneficio.</p>
+						</article>
+
+						<article>
+							<h1>Plan de ahorro energético:  </h1>								
+							<p>Se presentaran una variedad de estrategias de impacto económico-ambiental.</p>	
+						</article>
+
+						<article>	
+							<h1>Implementación del programa de ahorro energético:  </h1>
+							<p>Mediante diversas áreas que integran ENERFIS, alcanzando la vanguardia con adelantos tecnológicos y bajo las normativas nacionales vigentes, garantizamos a las administraciones públicas y empresas, beneficios medio ambientales, económico-operativo y de imagen.</p>
+							<p>Mediante la aplicación de las medidas de ahorro recomendadas tras ésta auditoría energética, somos capaces de reducir el consumo en un porcentaje considerable, sin tener que reducir el confort y la producción que necesitamos.</p>
+							</article>
+
+						</div>
+
+					</section>
+
+					
+
+
+
+
+
+					<aside>
+						
+					</aside>
+
+
+
+				</div>
+
+
+				<footer>© 2015 Enerfis. Todos los derechos reservados</footer>
+			
+			
+			<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+			<script type="text/javascript" src="js/main.js"></script>
+
+			</body>
+			
+
+			</html>
